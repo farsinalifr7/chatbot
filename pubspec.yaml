@@ -38,6 +38,7 @@ dependencies:
   google_generative_ai: ^0.4.0
   intl: ^0.19.0
   google_fonts: ^6.2.1
+  flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
   flutter_test:
@@ -54,6 +55,11 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path : "asset/images/vecteezy_small-robots-futuristic-marvels-of-artificial-intelligence_24238434.png"
+  flutter_lints: ^4.0.0
 flutter:
 
   # The following line ensures that the Material Icons font is

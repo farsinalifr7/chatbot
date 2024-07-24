@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
                   width: 20,
                 ),
                 const Text(
-                  "ChatPot",
+                  "Chatbot",
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 24,
